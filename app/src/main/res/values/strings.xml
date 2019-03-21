@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentTwoActivity</string>
+    <string name="hello">Ciao sono nico</string>
+</resources>
